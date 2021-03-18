@@ -4,7 +4,7 @@ Hello there!!
 Lets play Simon Game :D
 
 ## Demo Link ##
-https://devanshrathi25.github.io/simon-game/
+https://bhavesh0301.github.io/simon-game/
 
 ## About ##
 * This is a very interesting single-player memory game built using HTML, CSS, JAVASCRIPT.
